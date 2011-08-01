@@ -1,13 +1,15 @@
-#####################################################
+########################################################
 ##
-## Another Project Management Tool (APMT) from Klei2 
+## Another Project Management Tool (APMT) from @aamormo 
 ##
-#####################################################
+########################################################
 
 This is a personal pet project to test and improve my coding
 quality.
 
+If you want check the project, you can clone the repository and generate the project using Maven.
+
 Any feedback will be welcome.
 
 Kind regards,
-Klei2 Team
+@aamormo
